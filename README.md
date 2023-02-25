@@ -5,7 +5,7 @@ Recentemente, eu queria fazer uma ferramenta de evasão do Chrome, que envolvia 
 Lançado às pressas, ainda existem muitos lugares que não são perfeitos e irei modificá-lo lentamente no futuro.
 #### Instalar
 ```shell
- git clone https://github.com/h01/ProxyScanner.git
+ git clone https://github.com/detonaweb/ProxyScanner.git
 ```
 
 #### 
