@@ -11,5 +11,5 @@ Lançado às pressas, ainda existem muitos lugares que não são perfeitos e ire
 #### 
 usar
 ```shell
- ./ps.py -i 1.1.1.1-1.1.2.255 -p 8080 -t 50 -s test.txt
+cd ProxyScam && ./ps.py -i 1.1.1.1-1.1.2.255 -p 8080 -t 50 -s test.txt
 ```
